@@ -1,3 +1,8 @@
+[![](https://jitpack.io/v/jinmiao/common-ktx.svg)](https://jitpack.io/#jinmiao/common-ktx)
+![GitHub top language](https://img.shields.io/github/languages/top/jinmiao/common-ktx)
+![GitHub Release Date](https://img.shields.io/github/release-date/jinmiao/common-ktx)
+![GitHub](https://img.shields.io/github/license/jinmiao/common-ktx)
+
 # 常用 kotlin 扩展库
 日常开发常用的 kotlin 扩展库
 
