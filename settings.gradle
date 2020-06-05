@@ -1,0 +1,5 @@
+include ':toast-ext'
+include ':context-ext'
+include ':view-ext'
+include ':app'
+rootProject.name = "common-ktx"
