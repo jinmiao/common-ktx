@@ -35,15 +35,15 @@ allprojects {
 ```
 dependencies {
   // 引用所有扩展(一个就够了)
-  implementation 'com.github.jinmiao:common-ktx:0.0.3'
+  implementation 'com.github.jinmiao:common-ktx:0.0.1'
   
-  // 单独引用某类扩展
+  // or 单独引用某类扩展
   // context 扩展
-  implementation 'com.github.jinmiao.common-ktx:context-ext:0.0.3'
+  implementation 'com.github.jinmiao.common-ktx:context-ext:0.0.1'
   // view 扩展
-  implementation 'com.github.jinmiao.common-ktx:view-ext:0.0.3'
+  implementation 'com.github.jinmiao.common-ktx:view-ext:0.0.1'
   // toast 扩展
-  implementation 'com.github.jinmiao.common-ktx:toast-ext:0.0.3'
+  implementation 'com.github.jinmiao.common-ktx:toast-ext:0.0.1'
 }
 ```
 
